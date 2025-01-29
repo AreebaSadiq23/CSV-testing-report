@@ -1,6 +1,7 @@
 # CSV-testing-report
 
  <thead>
+  <table>
             <tr>
                 <th>Test Case ID</th>
                 <th>Test Case Description</th>
@@ -59,3 +60,4 @@
                 <td>Test successful</td>
             </tr>
         </tbody>
+  </table>
