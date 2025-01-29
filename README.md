@@ -9,7 +9,6 @@
                 <th>Expected Result</th>
                 <th>Actual Result</th>
                 <th>Status</th>
-                <th>Severity Level</th>
                 <th>Assigned To</th>
                 <th>Remarks</th>
             </tr>
@@ -23,7 +22,6 @@
                 <td>Products displayed correctly</td>
                 <td>Passed</td>
                 <td>Low</td>
-                <td>-</td>
                 <td>No issues found</td>
             </tr>
             <tr>
@@ -34,7 +32,6 @@
                 <td>Error message shown</td>
                 <td>Passed</td>
                 <td>Medium</td>
-                <td>-</td>
                 <td>Handled gracefully</td>
             </tr>
             <tr>
@@ -45,7 +42,6 @@
                 <td>Cart updates as expected</td>
                 <td>Passed</td>
                 <td>High</td>
-                <td>-</td>
                 <td>Works as expected</td>
             </tr>
             <tr>
@@ -56,7 +52,6 @@
                 <td>Responsive layout working as intended</td>
                 <td>Passed</td>
                 <td>Medium</td>
-                <td>-</td>
                 <td>Test successful</td>
             </tr>
         </tbody>
