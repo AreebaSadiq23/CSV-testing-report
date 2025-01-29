@@ -52,7 +52,7 @@
                 <td>Responsive layout working as intended</td>
                 <td>Passed</td>
                 <td>Medium</td>
-                <td>Test successful</td>
+                <td>Test Responsive successful</td>
             </tr>
         </tbody>
   </table>
